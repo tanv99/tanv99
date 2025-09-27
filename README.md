@@ -6,13 +6,6 @@
 
 ---
 
-## 🔭 What I’m Working On
-- **CanvasGPT** – AI-powered assistant for professors to generate course materials, powered by **Streamlit, FastAPI, Snowflake, Pinecone, LangChain, and GCP**.  
-- **AI PDF Summarizer** – Automated pipeline using **Docker, Google Cloud, and Azure Document Intelligence** to extract and summarize research PDFs at scale.  
-- Exploring **geospatial analytics**, **agentic AI architectures**, and **large-scale data engineering pipelines**.  
-
----
-
 ## 🌱 What I’m Learning
 - Advanced **Machine Learning & AI (LangChain, RAG, LLMOps)**  
 - **Cloud Data Warehousing** (Snowflake, BigQuery, Redshift, Azure Synapse)  
@@ -22,15 +15,8 @@
 
 ## 👯 I’m Looking to Collaborate On
 - Open-source projects in **Data Engineering, AI/ML, and Analytics**  
-- Building tools that make **data more accessible, actionable, and impactful**  
-
----
-
-## 💬 Ask Me About
-- Data Engineering pipelines (**Airflow, Spark, SQL**)  
-- Building **AI-powered applications** with Streamlit & FastAPI  
-- **Dashboards & BI** (Tableau, Power BI)
-  
+- Building tools that make **data more accessible, actionable, and impactful**
+- 
 ---
 
 ## ⚡ Fun Fact
