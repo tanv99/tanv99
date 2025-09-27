@@ -16,7 +16,7 @@
 ## 👯 I’m Looking to Collaborate On
 - Open-source projects in **Data Engineering, AI/ML, and Analytics**  
 - Building tools that make **data more accessible, actionable, and impactful**
-- 
+
 ---
 
 ## ⚡ Fun Fact
