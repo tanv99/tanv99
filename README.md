@@ -4,31 +4,21 @@
 💡 Passionate about solving real-world problems with **data-driven solutions, AI, and automation**.  
 🚀 Experienced in both consulting and tech environments — as a **Data Analyst at Accenture** and a **Data Science Co-op at McKinsey**, where I built pipelines, dashboards, predictive models, and AI-powered tools that supported decision-making across industries like healthcare, retail, and banking.  
 
----
-
 ## 🌱 What I’m Learning
 - Advanced **Machine Learning & AI (LangChain, RAG, LLMOps)**  
 - **Cloud Data Warehousing** (Snowflake, BigQuery, Redshift, Azure Synapse)  
 - **CI/CD and MLOps** for deploying scalable systems  
 
----
-
 ## 👯 I’m Looking to Collaborate On
 - Open-source projects in **Data Engineering, AI/ML, and Analytics**  
 - Building tools that make **data more accessible, actionable, and impactful**
-
----
-
+  
 ## ⚡ Fun Fact
 I love **dancing and cooking**, and I never forget what I learn — whether it’s in **tech, art, or life**.  
-
----
 
 ## 📫 How to Reach Me
 - [LinkedIn](https://www.linkedin.com/in/tanvi-inchanalkar/)  
 - 📧 Email: *tanviinchanalkar99@gmail.com*  
-
----
 
 ## 🛠️ Tech & Tools
 **Languages & Databases:** Python, SQL, Java, MySQL, Oracle, MongoDB  
