@@ -17,7 +17,7 @@
 I love **dancing and cooking**, and I never forget what I learn — whether it’s in **tech, art, or life**.  
 
 ## 📫 How to Reach Me
-- [LinkedIn](https://www.linkedin.com/in/tanvi-inchanalkar/)  
+- [LinkedIn](https://www.linkedin.com/in/tanviinchanalkar/)  
 - 📧 Email: *tanviinchanalkar99@gmail.com*  
 
 ## 🛠️ Tech & Tools
