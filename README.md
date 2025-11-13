@@ -2,7 +2,7 @@
 
 🎓 Master’s student in **Information Systems at Northeastern University** with a focus on **Data Engineering, Data Science, and Cloud Technologies**.  
 💡 Passionate about solving real-world problems with **data-driven solutions, AI, and automation**.  
-🚀 Experienced in both consulting and tech environments — as a **Data Analyst at Accenture** and a **Data Science Co-op at McKinsey**, where I built pipelines, dashboards, predictive models, and AI-powered tools that supported decision-making across industries like healthcare, retail, and banking.  
+🚀 Experienced in both consulting and tech environments — as a **Data Analyst at Accenture** and a **Data Engineer Co-op at McKinsey**, where I built pipelines, dashboards, predictive models, and AI-powered tools that supported decision-making across industries like healthcare, retail, and banking.  
 
 ## 🌱 What I’m Learning
 - Advanced **Machine Learning & AI (LangChain, RAG, LLMOps)**  
