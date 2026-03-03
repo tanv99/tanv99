@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Tanvi Inchanalkar  
 
 🎓 Master’s student in **Information Systems at Northeastern University** with a focus on **Data Engineering, Data Science, and Cloud Technologies**.  
-💡 Passionate about solving real-world problems with **data-driven solutions, AI, and automation**.  
+💡 Passionate about solving real-world problems with **data-driven solutions, AI, and automation**. 
   
 
 ## 🌱 What I’m Learning
